@@ -39,5 +39,7 @@ end
 def play(board)
   turn = 0
   until turn == 9
-puts    
+puts "Please enter 1-9:"
+end
+
   
